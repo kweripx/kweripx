@@ -7,5 +7,5 @@
   * **Name**: Vitor Hugo 
   * **Age**: 20
   * **University**: I'm on my third-year at college. 
-  * **Stack**: JAVASCRIPT-NODEJS-GIT-TYPESCRIPT
+  * **Stack**: JAVASCRIPT-NODEJS-TYPESCRIPT-GIT
 
