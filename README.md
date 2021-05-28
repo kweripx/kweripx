@@ -2,5 +2,7 @@
 <h3 align="center">A intern fullstack from Brazil</h3>
 
 - 🔭 I’m currently working on **OCTO Tecnologia e Consultoria de Software**
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center"> [![kweripx's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)</img>
+</a>
 
-[![kweripx's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
