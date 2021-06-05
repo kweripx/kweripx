@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vitor Hugo</h1>
-<h3 align="center">A Full Stack intern from Brazil and a ungraduated Computer Science student</h3>
+<h3 align="center">Hi 👋, I'm Vitor Hugo</h3>
 
-- 🔭 I’m currently working on **OCTO Tecnologia e Consultoria de Software**
+A Fullstack Intern. I'm constantly learning and everything I learn is in order to grown.
 
+Working part-time @ OCTO as a Intern.
 
