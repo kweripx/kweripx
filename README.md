@@ -3,3 +3,5 @@
 
 * Part-time employed @ OCTOTI as a Intern.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kweripx&hide=contribs,prs)
+
