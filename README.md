@@ -3,6 +3,7 @@
 
 * Part-time employed @ OCTOTI as a Intern.
 
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kweripx&layout=compact&theme=tokyonight)](https://github.com/kweripx/github-readme-stats)
 
 
