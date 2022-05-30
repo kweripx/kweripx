@@ -1,4 +1,4 @@
-  <h3 align="center">Hi, I'm <small>Kawe</small> or  Vitor Hugo 🤝</h3>
+  <h3 align="center">Hi, I'm Vitor Hugo 🤝</h3>
 </p>
 
 <details>
