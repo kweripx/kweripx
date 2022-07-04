@@ -21,7 +21,7 @@
 <details open="true">
   <summary> <b>  Contact me </b> <i>(Click here)</i> </summary>
   <br>
-  I am available for jobs opportunities, contact me to talk about.<br><br>
+    Currently working at Field Control.<br><br>
   <a href="mailto:vitor.hugoqueiroz11@gmail.com?Subject=Lets%20Talk!">
       <img align="left" alt="Email @ vitor.hugoqueiroz11@gmail.com" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
