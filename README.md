@@ -5,8 +5,8 @@
   <summary> <b> About me </b> <i>(Click here)</i> </summary>
   <br>
   <ul>
-    <li>🌍 I'm 21 years old, and I'm brazilian. Currently I live in Votuporanga, São Paulo.</li>
-    <li>🎓 I'm an undergrad Computer Science student since 2019 at UNIRP (Centro Universitário de Rio Preto).</li>
+    <li>🌍 I'm 23 years old, and I'm brazilian. Currently I live in Votuporanga, São Paulo.</li>
+    <li>🎓 I'm an graduated Computer Science student at UNIRP (Centro Universitário de Rio Preto).</li>
   </ul>
 </details>
 
@@ -21,7 +21,7 @@
 <details open="true">
   <summary> <b>  Contact me </b> <i>(Click here)</i> </summary>
   <br>
-    Currently working at Field Control.<br><br>
+    Open to work.<br><br>
   <a href="mailto:vitor.hugoqueiroz11@gmail.com?Subject=Lets%20Talk!">
       <img align="left" alt="Email @ vitor.hugoqueiroz11@gmail.com" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
