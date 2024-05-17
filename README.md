@@ -5,8 +5,8 @@
   <summary> <b> About me </b> <i>(Click here)</i> </summary>
   <br>
   <ul>
-    <li>🌍 I'm 23 years old, and I'm brazilian. Currently I live in Votuporanga, São Paulo.</li>
-    <li>🎓 I'm an graduated Computer Science student at UNIRP (Centro Universitário de Rio Preto).</li>
+    <li>🌍 I'm 24 years old, and I'm brazilian. Currently I live in Votuporanga, São Paulo.</li>
+    <li>🎓 Bachelor's Degree in Computer Science at UNIRP (Centro Universitário de Rio Preto).</li>
   </ul>
 </details>
 
